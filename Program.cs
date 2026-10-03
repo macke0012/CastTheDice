@@ -27,7 +27,7 @@ class Program
         Console.WriteLine($"Resultat: {sum}");
         if (sum == 12)
         {
-            Console.WriteLine($"Grattis du vann!");
+            Console.WriteLine($"Grattis 🥳 du har vunnit!");
             Thread.Sleep(500); //Bara så att man hinner reagera.
         }
 
